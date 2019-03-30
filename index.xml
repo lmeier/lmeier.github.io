@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liam Meier</title>
+    <link>liammeier.xyz/</link>
+    <description>Recent content on Liam Meier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="liammeier.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>liammeier.xyz/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>liammeier.xyz/research/</guid>
+      <description>Publications *Mainali, Nischal; *Meier, Liam; Ash, Elliott; and Chen, Daniel L., Automated Classification of Modes of Moral Reasoning in Judicial Decisions (July 2, 2018). Computational Legal Studies, Forthcoming. Available at SSRN: https://ssrn.com/abstract=3205286 or http://dx.doi.org/10.2139/ssrn.3205286
+*Equal contribution among these authors
+Capstones 
+Star Formation Rates in NIHAO The NIHAO project consists in around 100 large, hydrodynamical, cosmlogical simulations of galaxies. I analyze NIHAO galaxies and find a connection between the halo formation time (measured through the dark matter density profile) and relative star formation rates.</description>
+    </item>
+    
+  </channel>
+</rss>
