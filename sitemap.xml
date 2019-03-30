@@ -3,20 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>liammeier.xyz/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>liammeier.xyz/research/</loc>
+    <loc>/research/</loc>
   </url>
   
   <url>
-    <loc>liammeier.xyz/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>liammeier.xyz/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
